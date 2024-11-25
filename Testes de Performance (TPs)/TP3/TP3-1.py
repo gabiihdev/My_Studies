@@ -1,0 +1,1 @@
+print(list(map(lambda x: int(x) **2, input('Digite os números (com vírgula entre eles): ').split(','))))

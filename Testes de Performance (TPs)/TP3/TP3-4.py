@@ -1,0 +1,1 @@
+print(list(map(lambda frase: sum(1 for x in frase if x.lower() in 'aeiou'), ['Estudando Python', 'Estou viajando', 'Vamos comer'])))

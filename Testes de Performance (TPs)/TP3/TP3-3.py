@@ -1,0 +1,1 @@
+print(list(map(lambda historia: len(historia.split()), input('Digite a história (com um ponto no final): ').split('. '))))

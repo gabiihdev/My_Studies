@@ -1,0 +1,1 @@
+print(list(map(lambda x: 0 if int(x) < 10 else int(x), input('Digite os números (com vírgula entre eles): ').split(','))))
