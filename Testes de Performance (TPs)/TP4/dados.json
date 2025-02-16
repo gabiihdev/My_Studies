@@ -1,0 +1,9 @@
+{
+    "nome": "Gabriela Almeida",
+    "idade": 18,
+    "cidade": "Rio de Janeiro",
+    "contatos": {
+        "email": "gabriela@email.com",
+        "telefone": "1234-5678"
+    }
+}

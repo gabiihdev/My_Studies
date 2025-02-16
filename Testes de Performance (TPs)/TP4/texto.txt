@@ -1,0 +1,2 @@
+'Python é uma linguagem de programação. 
+Python é uma linguagem legal.'

@@ -1,0 +1,14 @@
+{
+    "nome": "Gabriela",
+    "idade": 18,
+    "cidade": "Rio de Janeiro",
+    "curso": "ADS",
+    "semestre": 2,
+    "habilidades": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Python",
+        "SQL"
+    ]
+}
