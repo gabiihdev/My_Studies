@@ -16,7 +16,8 @@ def filtrar_pedidos_com_lucro_positivo():
     pedidos_lucro_positivo = pd.read_sql_query(query, conn)
     pedidos_lucro_positivo.to_csv(DIR_CUR / "pedidos_lucrativos.csv", index=False)
 
-    print('>> Pedidos com lucro positivo salvos com sucesso no arquivo CSV "pedidos_lucrativos.csv"!!')
+    print('\n>> Pedidos com lucro positivo salvos com sucesso no arquivo CSV "pedidos_lucrativos.csv"!!\n')
+    print(pedidos_lucro_positivo)
     conn.close()
     
 filtrar_pedidos_com_lucro_positivo()

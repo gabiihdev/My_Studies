@@ -6,7 +6,7 @@ def carregar_arquivo(nome_arquivo):
             print('>> Arquivo carregaado com sucesso!!')
             print(arquivo.readlines)
     except FileNotFoundError:
-        print('>> Arquivo não encontrado.')
+        print('>> ERRO: Arquivo não encontrado.')
         pass
     
 carregar_arquivo("nome_arquivo")
