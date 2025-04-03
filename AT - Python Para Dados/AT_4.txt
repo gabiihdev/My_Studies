@@ -1,0 +1,12 @@
+4  - O que é Web Scraping? Defina Web Scraping e explique a diferença entre um crawler e um parser no processo de extração de dados da web.
+
+O Web Scraping é uma técnica usada para coletar informações de sites de forma automática, sem precisar copiar e colar manualmente. Um
+programa acessa a página, identifica os dados necessários e os organiza para análise ou uso posterior. 
+
+Diferença entre um crawler e um parser:
+
+- Crawler: É um programa que navega pela web e coleta páginas seguindo links, como os robôs de busca do Google.
+Exemplo: ele pode entrar no site de uma loja e pegar os links de todos os produtos.
+
+- Parser: Depois que o crawler encontra a página, o parser analisa o HTML e extrai os dados desejados.
+Exemplo: ele pode acessar a página de um produto e pegar o nome, preço e descrição.

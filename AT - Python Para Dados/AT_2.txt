@@ -1,0 +1,9 @@
+2 - O que é uma classe em Python? Defina o conceito de classe em Python, explique sua utilidade e descreva seus principais componentes.
+
+Uma classe em Python é como um molde para criar objetos. Ela define o que um objeto vai ter (atributos) e o que ele pode fazer (métodos).
+
+Os seus principais componentes são:
+
+- Atributos:  São as características do objeto (exemplo: um carro tem marca, modelo e ano).
+- Métodos:  São as ações que o objeto pode realizar. (exemplo: um carro pode acelerar, frear e virar).
+- Construtor (__init__):  É uma função especial que roda quando o objeto é criado, inicializando os atributos.

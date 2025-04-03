@@ -1,0 +1,6 @@
+3 - O que é ORM (Object-Relational Mapping)? Explique o que você entende como ORM e como ele facilita a interação entre aplicações Python
+e bancos de dados.
+
+O ORM (Mapeamento Objeto-Relacional) é uma técnica que permite interagir com bancos de dados usando objetos Python, sem precisar 
+SQL diretamente. Ele basicamente transforma tabelas do banco em classes, e os registros em objetos, facilitando a manipulação dos
+dados como se fossem listas e dicionários. 

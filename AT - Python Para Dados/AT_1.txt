@@ -1,0 +1,10 @@
+1 - Para que serve a biblioteca Pandas? Explique, com suas próprias palavras, a função da biblioteca Pandas em Python e descreva suas
+principais estruturas de dados.
+
+O Pandas é uma biblioteca do Python usada para analisar, manipular e organizar dados, facilitando o trabalho com informações estruturadas,
+como planilhas do Excel, arquivos CSV e tabelas de bancos de dados.
+
+As suas principais estruturas de dados são:
+
+- Series: Representa uma coluna única de dados, contendo uma lista de valores com um índice associado.
+- DataFrame: É uma tabela completa, composta por múltiplas colunas (Series), funcionando como uma planilha

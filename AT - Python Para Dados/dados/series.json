@@ -1,0 +1,191 @@
+[
+    {
+        "id":1,
+        "title":"Breaking Bad",
+        "year":"2008–2013",
+        "seasons":5,
+        "episodes":62
+    },
+    {
+        "id":2,
+        "title":"Planeta Terra II",
+        "year":2016,
+        "seasons":1,
+        "episodes":6
+    },
+    {
+        "id":3,
+        "title":"Planeta Terra",
+        "year":2006,
+        "seasons":1,
+        "episodes":11
+    },
+    {
+        "id":4,
+        "title":"Irmãos de Guerra",
+        "year":2001,
+        "seasons":1,
+        "episodes":10
+    },
+    {
+        "id":5,
+        "title":"Chernobyl",
+        "year":2019,
+        "seasons":1,
+        "episodes":5
+    },
+    {
+        "id":6,
+        "title":"A Escuta",
+        "year":"2002–2008",
+        "seasons":5,
+        "episodes":60
+    },
+    {
+        "id":7,
+        "title":"Avatar: A Lenda de Aang",
+        "year":"2005–2008",
+        "seasons":3,
+        "episodes":62
+    },
+    {
+        "id":8,
+        "title":"Planeta Azul II",
+        "year":2017,
+        "seasons":1,
+        "episodes":7
+    },
+    {
+        "id":9,
+        "title":"Família Soprano",
+        "year":"1999–2007",
+        "seasons":6,
+        "episodes":86
+    },
+    {
+        "id":10,
+        "title":"Cosmos: Uma Odisseia do Espaço-Tempo",
+        "year":2014,
+        "seasons":1,
+        "episodes":13
+    },
+    {
+        "id":11,
+        "title":"Cosmos",
+        "year":1980,
+        "seasons":1,
+        "episodes":13
+    },
+    {
+        "id":12,
+        "title":"Nosso Planeta",
+        "year":"2019–2023",
+        "seasons":2,
+        "episodes":12
+    },
+    {
+        "id":13,
+        "title":"Game of Thrones",
+        "year":"2011–2019",
+        "seasons":8,
+        "episodes":74
+    },
+    {
+        "id":14,
+        "title":"Bluey",
+        "year":"2018–",
+        "seasons":4,
+        "episodes":195
+    },
+    {
+        "id":15,
+        "title":"O Mundo em Guerra",
+        "year":"1973–1974",
+        "seasons":1,
+        "episodes":26
+    },
+    {
+        "id":16,
+        "title":"Fullmetal Alchemist: Brotherhood",
+        "year":"2009–2010",
+        "seasons":1,
+        "episodes":68
+    },
+    {
+        "id":17,
+        "title":"Vida",
+        "year":2009,
+        "seasons":1,
+        "episodes":11
+    },
+    {
+        "id":18,
+        "title":"Rick e Morty",
+        "year":"2013–",
+        "seasons":12,
+        "episodes":85
+    },
+    {
+        "id":19,
+        "title":"Arremesso Final",
+        "year":2020,
+        "seasons":1,
+        "episodes":10
+    },
+    {
+        "id":20,
+        "title":"Além da Imaginação",
+        "year":"1959–1964",
+        "seasons":5,
+        "episodes":156
+    },
+    {
+        "id":21,
+        "title":"Ataque dos Titãs",
+        "year":"2013–2023",
+        "seasons":4,
+        "episodes":98
+    },
+    {
+        "id":22,
+        "title":"A Guerra do Vietnã",
+        "year":2017,
+        "seasons":1,
+        "episodes":10
+    },
+    {
+        "id":23,
+        "title":"Sherlock",
+        "year":"2010–2017",
+        "seasons":4,
+        "episodes":15
+    },
+    {
+        "id":24,
+        "title":"Batman: A Série Animada",
+        "year":"1992–1995",
+        "seasons":4,
+        "episodes":85
+    },
+    {
+        "id":25,
+        "title":"Arcane",
+        "year":"2021–2024",
+        "seasons":2,
+        "episodes":18
+    },
+    {
+        "id":26,
+        "title":"Grey's Anatomy",
+        "year":2005,
+        "seasons":21,
+        "episodes":435
+    },
+    {
+        "id":27,
+        "title":"Supernatural",
+        "year":2005,
+        "seasons":15,
+        "episodes":327
+    }
+]
